@@ -1,13 +1,16 @@
 # FreeFile
 This was made with tkinter and python.
 
+
 It alowes you to upload a file and a a 2 letter code (such as FB or XH) anyone in the world can then download your file by putting in the code.
 with the codes only being 2 letters long, means only 729 files can exist at once and the code can easily be copied and pasted.
+
 
 This means it has the following advantages:
 
 no web-browser needed.
 Codes are VERY easy to remember, and share.
+
 
 But there are also the following DISadvanatges:
 
