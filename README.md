@@ -17,17 +17,20 @@ your file may not stay on the servers as it can quickly be replaced by other fil
 How to use:
 
   Uploading files:
+    
     Click the upload button.
     Select the file you want to upload and click done.
     once it finishes uploading the code will apear in the text box.
     Give this code to your friends.
     
   Downloading files:
+    
     First put the 2 letter code (in capatals) into the textbox (it's a cream color)
     Click download and choose where you want it to be downloaded and click done.
     That's it
     
   Updateing Free File:
+    
     the process is different on mac nd windows.
     
     On windows type "update" into the text box then click the download button.
