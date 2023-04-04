@@ -1,7 +1,7 @@
 # FreeFile
 [Windows Build](WindowsBuild.zip)
 <br>
-[MacOS Build](https://github.com/olliez-mods/FreeFile/blob/main/MacBuild.zip)
+[MacOS Build](MacBuild.zip)
 <br>
 <br>
 This was made with tkinter and python.
