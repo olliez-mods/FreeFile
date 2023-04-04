@@ -1,4 +1,9 @@
 # FreeFile
+[Windows Build](https://github.com/olliez-mods/FreeFile/WindowsBuild.zip)
+<br>
+[MacSO Build](https://github.com/olliez-mods/FreeFile/MacBuild.zip)
+<br>
+<br>
 This was made with tkinter and python.
 <br>
 <br>
