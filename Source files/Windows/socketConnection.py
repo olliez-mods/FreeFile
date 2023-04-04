@@ -10,8 +10,8 @@ buffer_size = 4096 # send/receive 4096 bytes each time step
 
 
 
-#host = "freefile.my.to"
-host = "localhost"
+host = "freefile.my.to"
+#host = "localhost"
 port = 1020
 
 # connects to the server and returns the socket, or returns -1 if couldn't connect
