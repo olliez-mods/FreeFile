@@ -34,7 +34,7 @@ def receive(client_socket, address, token):
         # remove absolute path if there is
         filename = os.path.basename("files/"+filename)
 
-        print(str(token) + ": Receiving", filename, "of size:", filesize/1000000, "|", code)
+        print(str(token) + ": Receiving", filename, "of size:", int(filesize)/1000000, "|", code)
 
         #writing incoming file to a new file called "code"
         #progress = tqdm.tqdm(range(int(filesize)), str(token) + ": Receving file", unit="B", unit_scale=True, unit_divisor=1024)
