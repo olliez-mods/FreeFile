@@ -48,7 +48,8 @@ How to use:
     
     On windows type "update" into the text box then click the download button.
     Once it finishes downloading close and reopen Free File.
-    You'll notice that a file called FREEFILE244OLDTEMP will have been "created" that's just the old exe and will be
-    automaticly deleted by the new EXE.
+    You'll notice that a file called FREEFILE244OLDTEMP will have been "created" that's
+    just the old exe and will be automaticly deleted by the new EXE.
     
-    On macs, you need to get the latest version from this GitHub page, sorry, it's just harder to do on macOS. XD
+    On macs, you need to get the latest version from this GitHub page, sorry, it's 
+    just harder to do on macOS. XD
