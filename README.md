@@ -1,3 +1,5 @@
+NOTE: Servers are closed indefenitly, if you wish to host a server then you are free to do so. But you will need to distribute your own code as the address is baked into the code.
+
 # FreeFile
 [Windows Build](WindowsBuild.zip)
 <br>
